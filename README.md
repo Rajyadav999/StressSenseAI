@@ -140,18 +140,3 @@ http://localhost:5050/dashboard
 
 To provide an accessible and intelligent system for early stress detection using machine learning and user-friendly interaction.
 
----
-
-## 📌 Future Improvements
-
-* Deep Learning-based prediction
-* Real-time emotion detection
-* Doctor recommendation system
-* Cloud deployment (AWS / Render)
-* User authentication system
-
----
-
-## 📜 License
-
-Add your preferred license (MIT recommended)
